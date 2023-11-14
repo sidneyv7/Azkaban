@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34302.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azkaban", "Azkaban\Azkaban.csproj", "{8895633C-3210-475D-A906-F0AD55A3E6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8895633C-3210-475D-A906-F0AD55A3E6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8895633C-3210-475D-A906-F0AD55A3E6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8895633C-3210-475D-A906-F0AD55A3E6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8895633C-3210-475D-A906-F0AD55A3E6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DF640F-C767-4C2B-8E06-6144ACF6EF94}
+	EndGlobalSection
+EndGlobal
